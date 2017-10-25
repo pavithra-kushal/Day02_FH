@@ -1,1 +1,1 @@
-<h1>Information.jsp file</h1>
+<h1>Information.jsp file was accessed on ${message}</h1>
